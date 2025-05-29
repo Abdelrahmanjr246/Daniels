@@ -1,0 +1,12 @@
+@media screen and (max-width: 992px){
+    .animation{
+        font-size: 44px;
+        line-height: 53px;
+    }
+}
+@media screen and (max-width: 768px){
+    .animation{
+        font-size: 30px;
+        line-height: 36px;
+    }
+}
